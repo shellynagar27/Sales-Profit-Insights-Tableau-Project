@@ -6,7 +6,7 @@ This project is a recreation from the Codebasics Sales Insights  YouTube playlis
 
 
 ## Problem Statement
-AtliQ Hardware, a computer hardware and peripherals company with branches across India, is struggling with declining sales. The sales director faces challenges in understanding the business's performance, as regional managers often sugarcoat issues and flood him with Excel files instead of providing clear insights. This reliance on cumbersome spreadsheets has led to increasing frustration, as it's difficult to digest the data effectively.
+AtliQ Hardware (Imaginary Company), a computer hardware and peripherals company with branches across India, is struggling with declining sales. The sales director faces challenges in understanding the business's performance, as regional managers often sugarcoat issues and flood him with Excel files instead of providing clear insights. This reliance on cumbersome spreadsheets has led to increasing frustration, as it's difficult to digest the data effectively.
 ## Solution
 The sales director of AtliQ Hardware decided to build a Power BI dashboard to transform data into visual insights for better decision-making. To accomplish this, he hired a team of data professionals.
 ## Steps Taken
