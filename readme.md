@@ -35,6 +35,14 @@ To address these challenges, a comprehensive dashboard was built to:
 - **Data-Driven Decision Making**: Replaced manual Excel-based reporting with automated insights, enabling a projected **7% revenue increase** in the next quarter.
 - **Enhanced Visualization**: Dynamic and interactive dashboards that make it easy to filter and drill down into regional and product-specific performance.
 
+## Installation and Setup
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/shellynagar27/Sales-Profit-Insights-Tableau-Project.git
+    ```
+2. Import dataset db_dump_version_2.sql to MySQL.
+3. Connect **Tableau** to the MySQL server for data visualization.
+
 ## How to Use
 1. **Data Source**: The dataset is stored in **MySQL**, structured with tables for transactions, customers, date, markets, products and customers with over 1lakh+ records.
 2. **Tableau**: Import the data from MySQL into Tableau for visualization. The dashboard is fully interactive and allows users to filter data by year, region, and product.
