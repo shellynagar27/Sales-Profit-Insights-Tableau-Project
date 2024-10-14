@@ -2,7 +2,8 @@
 # Sales Insights – Brick & mortar business 
 
 This project is a recreation from the Codebasics Sales Insights  YouTube playlist. The link to the playlist is provided below.
-[Codebasics YouTube playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+[Codebasics YouTube playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9) </br>
+[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7251574697509724160/)
 
 ## Project Overview
 AtliQ Hardware, a computer hardware and peripherals company with branches across India, was experiencing declining sales. The sales director struggled with analyzing business performance due to an overload of raw Excel data from regional managers. This project aims to solve this issue by creating a dynamic and interactive dashboard to provide clear, actionable insights into sales trends and profitability using **SQL**, **MySQL**, and **Tableau**.
